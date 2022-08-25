@@ -1,0 +1,14 @@
+@use './styles/colors';
+
+
+body{
+    font-size: 18px;
+    background-color: mediumpurple;
+    background-image: url(img/bg-main.png);
+    color: colors.$white;
+}
+
+.main-parag{
+    color: rgb(220, 221, 214);
+}
+
