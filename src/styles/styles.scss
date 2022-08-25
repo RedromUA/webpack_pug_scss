@@ -1,10 +1,10 @@
-@use './styles/colors';
+@use './base/colors';
 
 
 body{
     font-size: 18px;
     background-color: mediumpurple;
-    background-image: url(img/bg-main.png);
+    background-image: url(./../assets/img/bg-main.png);
     color: colors.$white;
 }
 

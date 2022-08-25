@@ -84,7 +84,7 @@ module.exports = {
             },
           ],
           generator: {
-            filename: 'assets/[name].[hash:8][ext]'
+            filename: 'assets/img/[name].[hash:8][ext]'
           }
         },
         // fonts
